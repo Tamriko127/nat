@@ -15,7 +15,7 @@ body{
 		color: $color-white;
 		text-transform: uppercase;
 		backface-visibility: hidden;
-		margin-bottom: 60px;
+		margin-bottom: 70px;
 
 			&__main {
 					display: block;
@@ -46,6 +46,7 @@ background-image: linear-gradient(to right,$color-primary-light,$color-primary-d
 color:transparent;
 letter-spacing: .2rem;
 transition: all .2s;
+
 
 
   &:hover {
