@@ -1,11 +1,12 @@
 .section-about {
 	background-color: $color-grey-light-1;
-	padding: 20rem 0;
+	padding: 20rem 0 26rem 0;
 	margin-top: -20vh;
+
 }
 
 .section-features {
-	padding: 20rem 0;
+	  padding: 20rem 0;
 		background-image: linear-gradient(
 		to right bottom,
 		  rgba($color-primary-light, 0.8),
@@ -19,5 +20,20 @@
 			& > *{
         transform: skewY(6deg);
 			}
+
+}
+
+.sections-tours {
+	display: block;
+ 	background-color: $color-grey-light-1;
+	padding: 15rem 0 10rem 0;
+	margin-top:  -7rem;
+  	
+}
+
+.section-stories{
+	padding: 10rem 0;
+	//background-color: $color-grey-light-1;
+	position: relative;
 
 }
